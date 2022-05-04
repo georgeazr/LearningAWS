@@ -1,5 +1,5 @@
 Um aplicativo em react que trás as statisticas do covid.
-## testando 1,2,3
+## aprendendo a usar GIT/GitHub com o evendo DEVOps Cloud Week
 
 ## Installation
 - git clone https://github.com/sambreen27/covid19.git
